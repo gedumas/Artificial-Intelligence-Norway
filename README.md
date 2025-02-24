@@ -44,7 +44,8 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | Spacemaker | Spacemaker has developed a game-changing AI technology that helps users discover smarter ways to maximize the potential of a building site. | https://spacemaker.ai/ |
 | Globus AI | AI as a Service (AIaaS) platform that increases innovation speed, simplifies sustainable decision making, and reduces data science implementation cost | https://www.globus.ai/ |
 |Fishency Innovation | Monitors salmon lice with machine learning | https://www.fishency.no/ | 
-|Max Manus AS |  et norsk teknologiselskap som gjennom de siste 40 år har spesialisert seg på kommunikasjons- og taleteknologiløsninger.| https://www.maxmanus.no/vi-tilbyr/tuva/ | 
+| Max Manus AS |  et norsk teknologiselskap som gjennom de siste 40 år har spesialisert seg på kommunikasjons- og taleteknologiløsninger.| https://www.maxmanus.no/vi-tilbyr/tuva/ | 
+|Eagle AI AS (2023) | Eagle AI er en «værmelding» for hvor du burde fiske | https://eagleai.no |
 
 
 
