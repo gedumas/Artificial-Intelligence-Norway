@@ -38,8 +38,7 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 
 | Company | Description / Product | Website |
 | :--- | :--- | :--- |
-| Sportai | SportAI is a B2B tech company revolutionizing sports technique and tactical analysis with AI,
-making it instant, objective, and accessible for all. | https://sportai.com/about-us |
+| Sportai | SportAI is a B2B tech company revolutionizing sports technique and tactical analysis with AI, making it instant, objective, and accessible for all. | https://sportai.com/about-us |
 | Simplifai | Simplifai is a holistic AI company with the vision to digitaly empower tomorrow's winners. Through the smart application of artificial intelligence and automation technology we help customers enhance their businesses and release their potential.  | https://www.simplifai.ai |
 | Boost AI | Boost AI boosts your customer experience with an artificially intelligent virtual agent that makes everything fast and easy. | https://www.boost.ai/ |
 | Iris | Iris is an AI Science Assistant, helping R&D double productivity when seeking out new opportunities in published research. | https://iris.ai/ |
